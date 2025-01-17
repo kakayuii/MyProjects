@@ -3,32 +3,31 @@
 ## Project 1: Computer Vision cousework
 Description: classification, object segmentation and counting
 
-<img src="assets/CV1.png"/>
+<img src="assets/CV2.png" width="400px" height="600px" />
 
-![Project Screenshot](assets/CV2.png)
+<img src="assets/CV3.png" width="400px" height="600px" />
 
-![Project Screenshot](assets/CV3.png)
 
 ## Project 2: Computer Vision paper
 
 Description: A research paper on optical flow estimation.
 
-<img src="assets/CV1.png"/>
+<img src="assets/CV1.png" width="400px" height="600px" />
 
 
 ## Project 3: Machine Learning cousework
 
 Description:supervised learning and unsupervised learning
 
-<img src="assets/ML2.png"/>
+<img src="assets/ML2.png" width="400px" height="600px"/>
 
-<img src="assets/ML3.png"/>
+<img src="assets/ML3.png" width="400px" height="600px"/>
 
 ## Project 4: Machine Learning paper
 
 Description: Deeper Networks for Image Classification
 
-<img src="assets/ML.png"/>
+<img src="assets/ML.png" width="400px" height="600px" />
 
 
 ## Project 4: Neural Networks and Deep Learning
