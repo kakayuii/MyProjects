@@ -1,26 +1,54 @@
 # My Academic Projects Showcase 🎉
 
-## Project 1: computer vision cousework
+## Project 1: Computer Vision cousework
 Description: classification, object segmentation and counting
 
-<img src="assets/repayment.JPG" width="350" height="750" />
+<img src="assets/CV1.png"/>
+
+![Project Screenshot](assets/CV2.png)
+
+![Project Screenshot](assets/CV3.png)
+
+## Project 2: Computer Vision paper
+
+Description: A research paper on optical flow estimation.
+
+<img src="assets/CV1.png"/>
 
 
-## Project 2: cv paper
-Description: 
-<img src="assets/bill.JPG" width="350" height="750" />
+## Project 3: Machine Learning cousework
+
+Description:supervised learning and unsupervised learning
+
+<img src="assets/ML2.png"/>
+
+<img src="assets/ML3.png"/>
+
+## Project 4: Machine Learning paper
+
+Description: Deeper Networks for Image Classification
+
+<img src="assets/ML.png"/>
 
 
-## Project 3: machine learning
-Description: 
-<img src="assets/fund.JPG" width="350" height="750" />
+## Project 4: Neural Networks and Deep Learning
 
-
-## Project 4: Featherweight TypeScript
-Description: 
-![Project Screenshot](assets/manage1.png)
-
-![Project Screenshot](assets/manage2.png)
+![Project Screenshot](assets/NLP1.png)
 
 
 ## Project 5: [Python Dashboard](https://github.com/kakayuii/dashboard)
+
+
+## Course content of Computer Vision
+
+![Project Screenshot](assets/CV-course.png)
+
+## Course content of Machine Learning for Visual Data Analysis
+
+![Project Screenshot](assets/MLVDA.png)
+
+## Course content of Neural Networks and NLP
+
+![Project Screenshot](assets/NLP2.png)
+
+![Project Screenshot](assets/NLP3.png)
