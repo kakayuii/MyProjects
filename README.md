@@ -5,7 +5,7 @@ Description: classification, object segmentation and counting
 
 <img src="assets/CV2.png" width="400px" height="600px" />
 
-<img src="assets/CV3.png" width="400px" height="600px" />
+<img src="assets/CV3.png" width="400px" height="450px" />
 
 
 ## Project 2: Computer Vision paper
@@ -32,22 +32,23 @@ Description: Deeper Networks for Image Classification
 
 ## Project 4: Neural Networks and Deep Learning
 
-![Project Screenshot](assets/NLP1.png)
+<img src="assets/NLP1.png" width="400px" height="600px" />
 
 
-## Project 5: [Python Dashboard](https://github.com/kakayuii/dashboard)
+<!-- ## Project 5: [Python Dashboard](https://github.com/kakayuii/dashboard)
+ -->
+
+## Project 5: Course content of Computer Vision
+
+<img src="assets/CV-course.png" />
 
 
-## Course content of Computer Vision
+## Project 6: Course content of Machine Learning for Visual Data Analysis
 
-![Project Screenshot](assets/CV-course.png)
+<img src="assets/MLVDA.png" height="400px" />
 
-## Course content of Machine Learning for Visual Data Analysis
+## Project 7: Course content of Neural Networks and NLP
 
-![Project Screenshot](assets/MLVDA.png)
+<img src="assets/NLP2.png" height="300px" />
 
-## Course content of Neural Networks and NLP
-
-![Project Screenshot](assets/NLP2.png)
-
-![Project Screenshot](assets/NLP3.png)
+<img src="assets/NLP3.png" height="300px" />
